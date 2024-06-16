@@ -1,0 +1,96 @@
+/* body {
+  margin-top: 40px !important;
+}
+
+body::before {
+  content: "XS";
+  color: red;
+  font-size: 2rem;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.box-c {
+  background-color: rgb(187, 230, 173);
+  border: 1px solid rgb(0, 255, 42);
+  min-height: 50px;
+  font-size: 2rem;
+  padding: 10px;
+}
+.box {
+  background-color: lightblue;
+  border: 1px solid blue;
+  min-height: 50px;
+  font-size: 2rem;
+}
+
+@media (min-width: 576px) {
+  body::before {
+    content: "SM";
+  }
+}
+
+@media (min-width: 768px) {
+  body::before {
+    content: "MD";
+  }
+}
+
+@media (min-width: 992px) {
+  body::before {
+    content: "LG";
+  }
+}
+
+@media (min-width: 1200px) {
+  body::before {
+    content: "XL";
+  }
+}
+
+@media (min-width: 1400px) {
+  body::before {
+    content: "XXL";
+  }
+}
+
+.cont1 {
+  background-color: red;
+  height: 100vh;
+} */
+*/ .dropdown-item:hover {
+  background-color: greenyellow;
+}
+.btn-success:hover {
+  border-color: greenyellow;
+  color: #fff;
+  background-color: greenyellow;
+}
+
+.box-title {
+  top: 200px;
+}
+figure {
+  width: 100%;
+}
+.card-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.card-img-top {
+  height: 190px;
+  object-fit: cover;
+}
+.accordion-button {
+  background-color: blueviolet;
+  box-shadow: none;
+}
+
+btn-success:hover {
+  border-color: greenyellow;
+  color: #fff;
+  background-color: greenyellow;
+}
